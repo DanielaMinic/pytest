@@ -123,7 +123,7 @@ def tw_mock():
             assert flag == TWMock.WRITE
             return msg
 
-        fullwidth = 80
+        fullwidth = 90
 
     return TWMock()
 
